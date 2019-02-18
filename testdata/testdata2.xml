@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmedata>
+  <title>Programme Data</title>
+  <programme id="1">
+      <name>Annabelle</name>
+      <image>assets/annabelle.jpg</image>
+      <mood>Scared</mood>
+  </programme>
+
+  <programme id="2">
+  <name>The Big Bang Theory</name>
+  <image>assets/big-bang-theory.jpg</image>
+  <mood>Happy</mood>
+  </programme>
+
+  <programme id="3">
+  <name>The Conjuring</name>
+  <image>assets/conjuring.jpg</image>
+  <mood>Fearless</mood>
+  </programme>
+
+  <programme id="4">
+  <name>Finding Nemo</name>
+  <image>assets/finding-nemo.jpg</image>
+  <mood>Sad</mood>
+  </programme>
+
+  <programme id="5">
+  <name>Good Will Hunting</name>
+  <image>assets/good-will-hunting.jpg</image>
+  <mood>Agitated</mood>
+  </programme>
+
+  <programme id="6">
+  <name>How to train your dragon</name>
+  <image>assets/how-to-train-dragons.jpg</image>
+  <mood>Calm</mood>
+  </programme>
+
+  <programme id="7">
+  <name>Mad Max</name>
+  <image>assets/mad-max.jpg</image>
+  <mood>Tired</mood>
+  </programme>
+
+  <programme id="8">
+  <name>Monsters Inc.</name>
+  <image>assets/monsters-inc.jpg</image>
+  <mood>Wide Awake</mood>
+  </programme>
+
+  <programme id="9">
+  <name>South Park</name>
+  <image>assets/south-park.jpg</image>
+  <mood>Scared</mood>
+  </programme>
+
+  <programme id="10">
+  <name>The Blues Brothers</name>
+  <image>assets/the-blues-brothers.jpg</image>
+  <mood>Happy</mood>
+  </programme>
+
+  <programme id="11">
+  <name>Sons of Anarchy</name>
+  <image>assets/sons-of-anarchy.jpg</image>
+  <mood>Fearless</mood>
+  </programme>
+
+  <programme id="12">
+  <name>Toy Story</name>
+  <image>assets/toy-story.jpg</image>
+  <mood>Sad</mood>
+  </programme>
+
+  <programme id="13">
+  <name>Uncle Buck</name>
+  <image>assets/uncle-buck.jpg</image>
+  <mood>Agitated</mood>
+  </programme>
+
+  <programme id="14">
+  <name>Up</name>
+  <image>assets/up.jpg</image>
+  <mood>Calm</mood>
+  </programme>
+
+  <programme id="15">
+  <name>Wall-E</name>
+  <image>assets/walle.jpg</image>
+  <mood>Tired</mood>
+  </programme>
+
+</programmedata>

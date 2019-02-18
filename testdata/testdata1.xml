@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmedata>
+  <title>Programme Data</title>
+  <programme id="1">
+      <name>A nightmare on Elm Street</name>
+      <image>assets/elm-street.jpg</image>
+      <mood>Scared</mood>
+  </programme>
+
+  <programme id="2">
+  <name>School of Rock</name>
+  <image>assets/school-of-rock.jpg</image>
+  <mood>Happy</mood>
+  </programme>
+
+  <programme id="3">
+  <name>First Blood</name>
+  <image>assets/first-blood.jpg</image>
+  <mood>Sad</mood>
+  </programme>
+
+  <programme id="4">
+  <name>Attack on Titans</name>
+  <image>assets/attack-on-titans.jpg</image>
+  <mood>Fearless</mood>
+  </programme>
+
+  <programme id="5">
+  <name>Harry Potter</name>
+  <image>assets/harry-potter-1.jpg</image>
+  <mood>Agitated</mood>
+  </programme>
+
+  <programme id="6">
+  <name>Inception</name>
+  <image>assets/inception.jpg</image>
+  <mood>Calm</mood>
+  </programme>
+
+  <programme id="7">
+  <name>Iron Man</name>
+  <image>assets/iron-man.jpg</image>
+  <mood>Tired</mood>
+  </programme>
+
+  <programme id="8">
+  <name>The Ring</name>
+  <image>assets/the-ring.jpg</image>
+  <mood>Wide Awake</mood>
+  </programme>
+
+  <programme id="9">
+  <name>Thor: Ragnarok</name>
+  <image>assets/thor-ragnarok.jpg</image>
+  <mood>Wide Awake</mood>
+  </programme>
+
+  <programme id="10">
+  <name>The Amazing Spiderman 2</name>
+  <image>assets/spiderman-2.jpg</image>
+  <mood>Happy</mood>
+  </programme>
+
+</programmedata>

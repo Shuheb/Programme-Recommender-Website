@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/styles.css">
+    <title>Mood Slider</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="logo-wrap">
+            <img src="./assets/logo.png" alt="sky-logo">
+        </div>
+        <h1>Mood Slider</h1>
+
+    </header>
+    <input type="file">
+    <main>
+        <div class="mood-slider-container">
+            <div class="slider-wrapper">
+                <span>Agitated</span>
+                <input type="range" min="1" max="100" data-mood="mood1" data-negative="agitated" data-positive="calm"
+                    value="50" class="slider">
+                <span>Calm</span>
+            </div>
+            <div class="slider-wrapper">
+                <span>Happy</span>
+                <input type="range" min="1" max="100" data-mood="mood2" data-negative="happy" data-positive="sad" value="50"
+                    class="slider">
+                <span>Sad</span>
+            </div>
+            <div class="slider-wrapper">
+                <span>Tired</span>
+                <input type="range" min="1" max="100" data-mood="mood3" data-negative="tired" data-positive="wide awake"
+                    value="50" class="slider">
+                <span>Wide Awake</span>
+            </div>
+            <div class="slider-wrapper">
+                <span>Scared</span>
+                <input type="range" min="1" max="100" data-mood="mood4" data-negative="scared" data-positive="fearless"
+                    value="50" class="slider">
+                <span>Fearless</span>
+            </div>
+        </div>
+        <div class="recommendations-wrapper">
+            <div class="recommendation">
+                <div class="img-container">No Content</div>
+                <p>No Content</p>
+            </div>
+            <div class="recommendation">
+                <div class="img-container">No Content</div>
+                <p>No Content</p>
+            </div>
+            <div class="recommendation">
+                <div class="img-container">No Content</div>
+                <p>No Content</p>
+            </div>
+            <div class="recommendation">
+                <div class="img-container">No Content</div>
+                <p>No Content</p>
+            </div>
+            <div class="recommendation">
+                <div class="img-container">No Content</div>
+                <p>No Content</p>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
